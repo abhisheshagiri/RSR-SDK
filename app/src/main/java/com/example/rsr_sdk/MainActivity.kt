@@ -58,16 +58,19 @@ val venues = listOf(
     Venues("The Hobby Center for the Performing Arts", "800 Bagby Street, Houston , TX 77002"),
     Venues("Toyota Center", "1510 Polk St, Houston, TX 77002"),
     Venues("Wortham Theater Center", "501 Texas Ave, Houston, TX 77002"),
+
     Venues("Bayou Music Center", "520 Texas Ave , Houston , TX 77002"),
     Venues("George R. Brown Convention Center", "1001 Avenida De Las Americas, Houston, TX 77010"),
     Venues("The Hobby Center for the Performing Arts", "800 Bagby Street, Houston , TX 77002"),
     Venues("Toyota Center", "1510 Polk St, Houston, TX 77002"),
     Venues("Wortham Theater Center", "501 Texas Ave, Houston, TX 77002"),
+
     Venues("Bayou Music Center", "520 Texas Ave , Houston , TX 77002"),
     Venues("George R. Brown Convention Center", "1001 Avenida De Las Americas, Houston, TX 77010"),
     Venues("The Hobby Center for the Performing Arts", "800 Bagby Street, Houston , TX 77002"),
     Venues("Toyota Center", "1510 Polk St, Houston, TX 77002"),
     Venues("Wortham Theater Center", "501 Texas Ave, Houston, TX 77002"),
+
     Venues("Bayou Music Center", "520 Texas Ave , Houston , TX 77002"),
     Venues("George R. Brown Convention Center", "1001 Avenida De Las Americas, Houston, TX 77010"),
     Venues("The Hobby Center for the Performing Arts", "800 Bagby Street, Houston , TX 77002"),
