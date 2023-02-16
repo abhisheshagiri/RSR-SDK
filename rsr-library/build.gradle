@@ -4,11 +4,10 @@ plugins {
 }
 
 android {
-    namespace 'com.example.rsr_sdk'
+    namespace 'com.example.rsr_library'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.rsr_sdk"
         minSdk 24
         targetSdk 32
         versionCode 1
